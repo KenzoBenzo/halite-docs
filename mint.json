@@ -6,18 +6,6 @@
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.png",
-  "colors": {
-    "primary": "#2253f7",
-	  "light": "#2253f7",
-    "dark": "#0c0a09",
-    "background": {
-      "dark": "#0c0a09"
-    },
-    "anchors": {
-      "from": "#3d77ff",
-      "to": "#f33949"
-    }
-  },
   "topbarLinks": [
     {
       "name": "Support",
